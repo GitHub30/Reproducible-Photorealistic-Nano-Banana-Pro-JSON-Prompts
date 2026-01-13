@@ -323,3 +323,118 @@ https://gemini.google.com/share/0a1cb2c55364
 ```
 
 https://github.com/ZeroLu/awesome-nanobanana-pro?tab=readme-ov-file#225-shop-window-cartoon-reflection
+
+# Trans-Dimensional Liquid Pour
+
+https://gemini.google.com/share/9cebb907ce82
+
+<img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/00be05df-05d5-43da-8687-9e2f50bbfe25" />
+
+```json
+{
+  "meta": {
+    "type": "Creative Brief",
+    "genre": "Hyper-realistic Surrealism",
+    "composition_style": "Composite Portrait",
+    "aspect_ratio": "Portrait (implied by 'portrait' description)"
+  },
+  "scene_architecture": {
+    "viewpoint": {
+      "type": "Photographic",
+      "angle": "High-angle / Looking down",
+      "framing": "Tight on central subject"
+    },
+    "dimensional_hierarchy": {
+      "rule": "Scale disparity for surreal effect",
+      "dominant_element": "iPhone 17 Pro Max (Super-scaled)",
+      "subordinate_elements": ["Blue Book (Miniature)", "Pen (Miniature)"]
+    }
+  },
+  "realm_physical": {
+    "description": "The real-world environment surrounding the device.",
+    "environment": {
+      "surface": "Wooden table",
+      "texture_attributes": ["rich grain", "tactile", "worn"]
+    },
+    "lighting_global": {
+      "source": "Natural light",
+      "temperature": "Warm",
+      "shadow_quality": "Soft, diffused, volumetric"
+    },
+    "active_agent": {
+      "identity": "Human Hand (Real)",
+      "action": "Pouring",
+      "position": "Entering frame laterally"
+    },
+    "held_object": {
+      "item": "Bottle",
+      "state": "Chilled (visible condensation)",
+      "branding": {
+        "logo_text": "Decamin",
+        "placement": "Visible on label"
+      },
+      "contents": {
+        "substance": "Water",
+        "color": "Light Green",
+        "state": "Liquid flow"
+      }
+    },
+    "static_props": [
+      {
+        "item": "Book",
+        "color": "Blue",
+        "scale_notes": "Significantly smaller than phone"
+      },
+      {
+        "item": "Pen",
+        "type": "Ballpoint/Ink",
+        "scale_notes": "Significantly smaller than phone"
+      }
+    ]
+  },
+  "realm_digital": {
+    "description": "The content displayed on the screen.",
+    "container_device": {
+      "model": "iPhone 17 Pro Max",
+      "state": "Screen ON",
+      "orientation": "Flat on physical surface"
+    },
+    "screen_content": {
+      "subject_identity": "mqn (Reference ID)",
+      "subject_scale": "Close-up (filling screen)",
+      "expression": "Happy / Smiling",
+      "attire": "Winter clothing (matching reference)",
+      "setting": "Winter landscape / snowy backdrop",
+      "held_object_digital": {
+        "item": "Drinking Glass",
+        "branding": {
+          "logo_text": "Decamin",
+          "visibility": "Clear"
+        },
+        "initial_state": "Empty (waiting for pour)"
+      }
+    }
+  },
+  "surreal_bridge_event": {
+    "description": "The interaction connecting the physical and digital realms.",
+    "action_type": "Trans-dimensional Fluid Dynamics",
+    "source": "realm_physical.held_object.contents (Light Green Water)",
+    "interaction_point": "realm_digital.container_device.screen_surface",
+    "destination": "realm_digital.screen_content.held_object_digital (The Glass)",
+    "physics_violation_rules": {
+      "rule_1": "Liquid does not splash off the glass screen surface.",
+      "rule_2": "Screen surface acts as a permeable membrane solely for this liquid.",
+      "rule_3": "Physical liquid transitions seamlessly into digital representation upon contact."
+    },
+    "visual_details": ["Sharp liquid simulation", "No surface tension on screen glass", "Fluid physically filling digital cup"]
+  },
+  "rendering_specifications": {
+    "visual_fidelity": "Hyper-realistic",
+    "texture_focus": ["Sharp fluid details", "Glass pixels", "Wood grain", "Skin texture (hand and subject)"],
+    "mood": "Cinematic, warm, magical",
+    "resolution_target": "8K / Highly detailed"
+  }
+}
+```
+
+https://github.com/ZeroLu/awesome-nanobanana-pro?tab=readme-ov-file#227-trans-dimensional-liquid-pour
