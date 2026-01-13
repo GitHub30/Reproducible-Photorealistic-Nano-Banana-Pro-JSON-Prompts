@@ -1866,3 +1866,78 @@ https://gemini.google.com/share/6f4aa04ffd28
 ```
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-40-infographic--edu-visual---photorealistic-scientist-in-futuristic-ai-lab
+
+# YouTube Thumbnail - Photorealistic Female Pilot Selfie Prompt
+
+https://gemini.google.com/share/5a050518f828
+
+<img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/b2e70590-1d88-4608-a6ae-029868fc5430" />
+
+
+```json
+{
+  "prompt": {
+    "subject": {
+      "identity": "Female airline pilot taking a selfie",
+      "demographics": "Young woman, approximately 20-25 years old",
+      "appearance": {
+        "hair": {
+          "color": "Dark brown",
+          "style": "Long, straight, sleek, falling over shoulders",
+          "texture": "Silky and smooth"
+        },
+        "face": {
+          "skin": "Flawless, light complexion, soft texture",
+          "makeup": "Polished professional look, winged eyeliner, groomed eyebrows, mauve-pink matte lipstick",
+          "expression": "Confident, slight soft smile, direct eye contact with camera"
+        }
+      },
+      "pose": {
+        "type": "Selfie angle",
+        "action": "Standing, one arm extended holding camera, other hand resting on hip",
+        "details": "Slight torso twist to show uniform details"
+      }
+    },
+    "attire": {
+      "type": "Commercial pilot uniform",
+      "shirt": "Crisp white short-sleeve button-down aviator shirt with two front pockets",
+      "accessories": {
+        "tie": "Solid black necktie",
+        "epaulets": "Black shoulder boards with {argument name="epaulet stripes" default="three or four"} gold stripes",
+        "watch": "Silver metallic wristwatch on left wrist",
+        "logos": "Orange text logo reading '{argument name="airline logo" default="GOL"}' embroidered above the left pocket"
+      }
+    },
+    "environment": {
+      "location": "Airport observation deck or tarmac balcony",
+      "background": {
+        "immediate": "Glass safety railing with metal fittings",
+        "midground": "Airport tarmac/apron concrete",
+        "distant": "Parked commercial airplanes with red tail fins (resembling Swiss Air or similar), airport infrastructure"
+      },
+      "sky": "Sunset sky with dramatic clouds",
+      "colors": "Golden hour gradient, orange, yellow, and soft blue hues"
+    },
+    "lighting": {
+      "source": "Natural golden hour sunlight from behind",
+      "effect": "Backlit glow on hair, soft flattering frontal illumination on face, warm atmospheric tone",
+      "shadows": "Soft and diffuse"
+    },
+    "technical_specs": {
+      "style": "Photorealistic smartphone selfie",
+      "resolution": "8k ultra hd",
+      "aspect_ratio": "9:16 (long vertical format)",
+      "focus": "Sharp focus on subject, slight depth of field blur on background planes",
+      "quality_tags": [
+        "hyper-realistic",
+        "highly detailed",
+        "best quality",
+        "masterpiece",
+        "raw photo"
+      ]
+    }
+  }
+}
+```
+
+https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-52-youtube-thumbnail---photorealistic-female-pilot-selfie-prompt
