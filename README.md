@@ -1322,3 +1322,42 @@ https://gemini.google.com/share/b153e05608ae
 ```
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-19-profile--avatar---ana-de-armas-mirror-selfie-prompt-for-nano-banana-pro
+
+# Social Media Post - London outdoor restaurant portrait with Nano Banana Pro
+
+https://gemini.google.com/share/bea09a45aa55
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/bf401e3b-a238-41b6-8ed4-fab6aea6e4c5" />
+
+
+```json
+{
+  "image_generation_prompt": {
+    "style": "Photorealistic, candid, effortless atmosphere of a moment casually snapped on a phone.",
+    "subject": {
+      "focus": "A young woman as the main focal point.",
+      "attire": "Wearing a light scarf.",
+      "action": "Gently stirring tea while gazing off to the side.",
+      "expression": "Thoughtful."
+    },
+    "setting": {
+      "location": "A relaxed outdoor restaurant.",
+      "city": "{argument name='city in english' default='London'}",
+      "atmosphere": "The city feels calm as it wakes up."
+    },
+    "time_and_weather": {
+      "time_of_day": "Cool Wednesday morning.",
+      "month": "March",
+      "year": "{argument name='year in english' default='2025'}",
+      "conditions": "Clear sky, crisp spring air."
+    },
+    "composition": {
+      "depth_of_field": "Shallow. The background is a smooth blur (bokeh).",
+      "background_elements": "Blurred waiter moving about, soft morning traffic."
+    },
+    "full_text_prompt": "A photorealistic, candid image resembling a phone photo of a young woman sitting at a relaxed outdoor restaurant in {argument name='city in english' default='London'} on a cool Wednesday morning in March {argument name='year in english' default='2025'}. The sky is clear, the spring air is crisp, and the calm city is waking up. She is the sharp focal point, wearing a light scarf, gently stirring her tea with a thoughtful expression, gazing aside. The background, including a waiter and soft traffic, is smoothly blurred."
+  }
+}
+```
+
+https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-21-social-media-post---london-outdoor-restaurant-portrait-with-nano-banana-pro
