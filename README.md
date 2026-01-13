@@ -65,6 +65,8 @@ Create a 2000s Mirror Selfie of yourself using Gemini Nano Banana.
 }
 ```
 
+https://github.com/ZeroLu/awesome-nanobanana-pro?tab=readme-ov-file#12-2000s-mirror-selfie
+
 # Bathroom Mirror Selfie
 
 https://gemini.google.com/share/e658719e6e82
@@ -165,3 +167,49 @@ https://gemini.google.com/share/e658719e6e82
   }
 }
 ```
+
+https://github.com/ZeroLu/awesome-nanobanana-pro?tab=readme-ov-file#19-bathroom-mirror-selfie
+
+# Portrait with Puppy in Snow
+
+https://gemini.google.com/share/1780be0f4d2e
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/8d577a95-af0a-48b0-ad0a-e860ebf2e162" />
+
+```json
+{
+  "image_description": {
+    "subject": {
+      "face": {
+        "preserve_original": true,
+        "reference_match": true,
+        "description": "The girl's facial features, expression, and identity must remain exactly the same as the reference image."
+      },
+      "girl": {
+        "age": "young",
+        "hair": "long, wavy brown hair",
+        "expression": "puckering her lips toward the camera",
+        "clothing": "black hooded sweatshirt"
+      },
+      "puppy": {
+        "type": "small white puppy",
+        "eyes": "light blue",
+        "expression": "calm, looking forward"
+      }
+    },
+    "environment": {
+      "setting": "outdoors in a winter scene",
+      "elements": [
+        "snow covering the ground",
+        "bare trees in the background",
+        "blurred silver car behind the girl"
+      ],
+      "sky": "clear light blue sky"
+    },
+    "mood": "cute, natural, winter outdoor moment",
+    "camera_style": "soft depth of field, natural daylight, subtle winter tones"
+  }
+}
+```
+
+https://github.com/ZeroLu/awesome-nanobanana-pro?tab=readme-ov-file#111-portrait-with-puppy-in-snow
