@@ -646,3 +646,33 @@ https://gemini.google.com/share/c2a31ef9a3cf
 ```
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-9-detailed-mirror-selfie-otaku-room-scene
+
+# Profile / Avatar - Intimate Low-Light Bedroom Selfie Portrait
+
+https://gemini.google.com/share/da39f9757436
+
+<img width="765" height="1024" alt="image" src="https://github.com/user-attachments/assets/d39ab49b-c7a5-4597-bc1a-579372fc2c20" />
+
+```json
+{
+  "prompt": "Intimate low-light bedroom selfie portrait of a young woman, very fair porcelain skin with subtle natural glow and light freckles, large captivating light blue eyes with soft natural lashes and slight winged liner, direct melancholic gaze at camera, full glossy nude-pink lips in subtle pout with finger gently touching lower lip, long voluminous platinum blonde wavy hair with loose curls cascading over shoulders and framing face, wearing oversized soft pink-white striped ribbed knit sweater with frayed cuffs, high neck, cozy and slightly oversized fit, sitting or leaning in dimly lit bedroom, warm golden lamp light from side creating gentle rim light on hair curls skin and sweater texture, subtle highlights on freckles and eyes, blurred background with neutral walls and soft curtains, shallow depth of field, strong cinematic bokeh, photorealistic intimate fashion selfie photography, high detail hair volume curls skin pores freckles knit texture fabric fuzz and natural imperfections, shot on smartphone close-up style with slight wide-angle, ultra detailed, 8k resolution",
+  "negative_prompt": "cartoon, anime, illustration, painting, deformed, blurry, lowres, plastic skin, doll-like, heavy makeup overload, thick eyeliner, false lashes, filters, beauty filter, airbrushed skin, extra limbs, distorted proportions, asymmetrical face, harsh flash, cold lighting, day time overexposure, formal clothing, short hair, dark hair, crowded room, text watermark, logo, ugly, bad anatomy, eyes closed, no freckles, aggressive expression",
+  "reference_image": {
+    "enabled": true,
+    "strength": 0.92,
+    "description": "Strong primary reference for exact composition and vibe: young woman with long platinum blonde wavy hair, fair freckled skin, light blue eyes direct melancholic gaze, finger touching lower lip, pink-white striped oversized knit sweater, warm dim bedroom light, intimate close-up selfie style"
+  },
+  "style": "photorealistic intimate cozy bedroom selfie, soft melancholic aesthetic, warm golden indoor lighting",
+  "aspect_ratio": "3:4",
+  "lighting": "soft warm golden lamp light from side, gentle rim light on hair curls skin and sweater, subtle highlights on freckles eyes and lip gloss, cozy ambient glow with soft shadows",
+  "camera": "smartphone selfie (iPhone style), close-up angle slightly from below, natural indoor warm light, minor grain for realism",
+  "additional_details": [
+    "hair: platinum blonde, long voluminous loose waves and curls, soft shine with strands falling over face and shoulders",
+    "outfit: oversized pink-white horizontal striped ribbed knit sweater, high neck, frayed cuffs, cozy slightly baggy fit",
+    "pose: sitting or leaning forward slightly, one hand with finger touching lower lip thoughtfully, relaxed intimate posture",
+    "skin: very fair porcelain with light natural freckles across nose cheeks and forehead, realistic pores and dewy glow",
+    "eyes: large light blue with detailed"
+}
+```
+
+https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-4-profile--avatar---intimate-low-light-bedroom-selfie-portrait
