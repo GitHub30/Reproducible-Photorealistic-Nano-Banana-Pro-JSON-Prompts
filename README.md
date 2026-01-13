@@ -1,4 +1,4 @@
-# Reproducible-Nano-Banana-Pro-JSON-Prompts
+# Reproducible Nano Banana Pro JSON Prompts
 
 # 2000s Mirror Selfie
 
