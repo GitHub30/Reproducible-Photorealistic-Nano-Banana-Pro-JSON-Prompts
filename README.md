@@ -1626,3 +1626,48 @@ https://gemini.google.com/share/024a0af6a012
 ```
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-26-social-media-post---y2k-k-pop-digital-scrapbook-collage
+
+# Social Media Post - Flash Photography Influencer Candid in Upscale Restaurant
+
+https://gemini.google.com/share/aadb03c13469
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/63518b36-9c84-4a5e-9ea6-7cbd8f4abcb5" />
+
+```json
+{
+  "meta": {
+    "aesthetic": "Flash Photography/Influencer Candid",
+    "imperfections": [
+      "Direct Flash",
+      "Hard Shadows",
+      "High Contrast",
+      "Digital Noise"
+    ]
+  },
+  "global_context": {
+    "scene_description": "Nighttime indoor dining scene captured with direct flash.",
+    "lighting": {
+      "source": "Hard Direct On-Camera Flash",
+      "shadows": "Sharp/Distinct on wall behind subject"
+    }
+  },
+  "subject_analysis": {
+    "pose": "Sitting upright on a dining chair, legs crossed at the knee, one hand resting on the thigh, the other hand gently touching the cheek/jawline with elbow raised.",
+    "expression": "Poised, confident, soft smile directed at camera",
+    "clothing": "Oversized cream graphic t-shirt with dark gothic/dog print, sheer brown thigh-high stockings, white biker shorts visible underneath",
+    "accessories": "Shoulder bag with thick strap, small hoop earrings, delicate necklace, wrist tattoo visible",
+    "identity_protection": {
+      "face_command": "USE_REFERENCE_FACE",
+      "hair_command": "USE_REFERENCE_HAIR",
+      "skin_command": "USE_REFERENCE_SKIN"
+    }
+  },
+  "environment": {
+    "location": "Upscale restaurant interior",
+    "background_details": "White wainscoting/paneled walls, tables with white tablecloths and candles, large mirror reflecting dried floral arrangements, silver ice bucket stand"
+  },
+  "generative_prompt_string": "A raw, candid photo of a person, sitting upright on a dining chair, legs crossed at the knee, one hand resting on the thigh, the other hand gently touching the cheek/jawline with elbow raised, poised, confident, soft smile directed at camera. USE_REFERENCE_FACE, USE_REFERENCE_HAIR, USE_REFERENCE_SKIN. Wearing Oversized cream graphic t-shirt with dark gothic/dog print, sheer brown thigh-high stockings, white biker shorts visible underneath. Hard Direct On-Camera Flash, Direct Flash, Hard Shadows, High Contrast, Digital Noise. Background is Upscale restaurant interior with White wainscoting/paneled walls, tables with white tablecloths and candles, large mirror reflecting dried floral arrangements, silver ice bucket stand. iPhone aesthetic, unedited, authentic."
+}
+```
+
+https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-27-social-media-post---flash-photography-influencer-candid-in-upscale-restaurant
