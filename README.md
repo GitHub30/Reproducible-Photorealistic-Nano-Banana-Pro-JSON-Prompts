@@ -292,3 +292,34 @@ https://gemini.google.com/share/e08c74f73b86
 ```
 
 https://github.com/ZeroLu/awesome-nanobanana-pro?tab=readme-ov-file#224-extreme-wide-angle-phone-screen-replacement
+
+# Shop Window Cartoon Reflection
+
+https://gemini.google.com/share/0a1cb2c55364
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/a3165cbe-eb66-4583-8e04-e92c7fbf773e" />
+
+```json
+{
+  "PROMPT": "Create a bright, high-end street-fashion photograph of the woman from the reference image, keeping her face, hair, body & outfit exactly the same. She stands outside a luxury toy-shop window, gently touching the glass. Inside the window display, place a full-height cartoon-style doll designed to resemble her—same features, hair, and outfit—transformed into a cute, big-eyed, stylized animated character. Crisp lighting, premium street-fashion look, realistic reflections, face unchanged.",
+  "settings": {
+    "style": "high-end street fashion",
+    "lighting": "crisp and bright",
+    "environment": "outside luxury toy-shop window",
+    "subject": "woman from reference image",
+    "focus": ["face", "hair", "body", "outfit"],
+    "additional_elements": [
+      {
+        "type": "doll",
+        "style": "cartoon-style, big-eyed, stylized",
+        "location": "inside window display",
+        "resemblance": "exact features, hair, outfit of woman"
+      }
+    ],
+    "reflections": "realistic",
+    "photorealism": true
+  }
+}
+```
+
+https://github.com/ZeroLu/awesome-nanobanana-pro?tab=readme-ov-file#225-shop-window-cartoon-reflection
