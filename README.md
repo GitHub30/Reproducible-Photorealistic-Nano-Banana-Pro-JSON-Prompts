@@ -1,5 +1,35 @@
 # Reproducible Photorealistic Nano Banana Pro JSON Prompts
 
+# Profile / Avatar - Ultra-Photorealistic Candid Smartphone Selfie Prompt
+
+https://gemini.google.com/share/ecf7aa43fd12
+
+<img width="825" height="1024" alt="image" src="https://github.com/user-attachments/assets/3cdc2170-62e1-48d7-a17e-2407dc127ac2" />
+
+```json
+{
+  "image_generation_params": {
+    "positive_prompt": "Ultra-photorealistic smartphone selfie photo (front camera), portrait 4:5. A young adult woman seated at a kitchen table, centered framing from mid-torso to top of head. She has shoulder-length dark brown hair with soft layers, curtain bangs, and two small black hair clips on both sides. Expression is calm and slightly pouty, natural skin texture, minimal makeup. She raises her hand close to her face making a peace/V sign, with the fingers framing one eye. She wears a white ribbed camisole with delicate lace trim. Lighting is strong direct morning sunlight coming from a large window on the left, creating hard shadows and bright highlights across her face, chest, and the table. Environment: a bright modern kitchen with white walls and cabinets; a refrigerator in the background covered with small colorful magnets/souvenir magnets. Foreground on the table: a white pump lotion bottle, a blue plastic water bottle, an amber pill/vitamin bottle, a pack of wet wipes, and some snack packaging including a red rectangular box, all slightly cluttered and casually placed. Style: realistic color, natural contrast, sharp focus, high detail, authentic candid selfie look, HDR-like dynamic range, subtle film grain, no retouching, no beauty filter.",
+    "negative_prompt": "Blurry, low-res, over-smoothed skin, heavy makeup, glam retouching, unrealistic doll face, warped hands, extra fingers, missing fingers, deformed peace sign, crossed eyes, bad anatomy, distorted background, duplicated objects, text, watermark, logo, posterized lighting.",
+    "settings": {
+      "aspect_ratio": "4:5",
+      "lens_look": "smartphone wide (24–28mm equivalent)",
+      "quality": "high / ultra detail",
+      "style_strength": "low–medium (keep it natural)"
+    },
+    "post_processing": {
+      "watermark": {
+        "text": "doctorwasif",
+        "position": "bottom_right_corner"
+      }
+    }
+  }
+}
+```
+
+https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-6-profile--avatar---ultra-photorealistic-candid-smartphone-selfie-prompt
+
+
 # 2000s Mirror Selfie
 
 https://gemini.google.com/share/62fbf4c592d8
@@ -730,35 +760,6 @@ https://gemini.google.com/share/36c6cb4d0634
 ```
 
 https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-5-profile--avatar---candid-night-car-selfie-with-flash
-
-# Profile / Avatar - Ultra-Photorealistic Candid Smartphone Selfie Prompt
-
-https://gemini.google.com/share/ecf7aa43fd12
-
-<img width="825" height="1024" alt="image" src="https://github.com/user-attachments/assets/3cdc2170-62e1-48d7-a17e-2407dc127ac2" />
-
-```json
-{
-  "image_generation_params": {
-    "positive_prompt": "Ultra-photorealistic smartphone selfie photo (front camera), portrait 4:5. A young adult woman seated at a kitchen table, centered framing from mid-torso to top of head. She has shoulder-length dark brown hair with soft layers, curtain bangs, and two small black hair clips on both sides. Expression is calm and slightly pouty, natural skin texture, minimal makeup. She raises her hand close to her face making a peace/V sign, with the fingers framing one eye. She wears a white ribbed camisole with delicate lace trim. Lighting is strong direct morning sunlight coming from a large window on the left, creating hard shadows and bright highlights across her face, chest, and the table. Environment: a bright modern kitchen with white walls and cabinets; a refrigerator in the background covered with small colorful magnets/souvenir magnets. Foreground on the table: a white pump lotion bottle, a blue plastic water bottle, an amber pill/vitamin bottle, a pack of wet wipes, and some snack packaging including a red rectangular box, all slightly cluttered and casually placed. Style: realistic color, natural contrast, sharp focus, high detail, authentic candid selfie look, HDR-like dynamic range, subtle film grain, no retouching, no beauty filter.",
-    "negative_prompt": "Blurry, low-res, over-smoothed skin, heavy makeup, glam retouching, unrealistic doll face, warped hands, extra fingers, missing fingers, deformed peace sign, crossed eyes, bad anatomy, distorted background, duplicated objects, text, watermark, logo, posterized lighting.",
-    "settings": {
-      "aspect_ratio": "4:5",
-      "lens_look": "smartphone wide (24–28mm equivalent)",
-      "quality": "high / ultra detail",
-      "style_strength": "low–medium (keep it natural)"
-    },
-    "post_processing": {
-      "watermark": {
-        "text": "doctorwasif",
-        "position": "bottom_right_corner"
-      }
-    }
-  }
-}
-```
-
-https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts?tab=readme-ov-file#no-6-profile--avatar---ultra-photorealistic-candid-smartphone-selfie-prompt
 
 # Profile / Avatar - Ultra-Close Photorealistic Couple Selfie with Heart Cheek Paint
 
